@@ -1,2 +1,1 @@
-# C37RV_SpeedRacer_ReferenceCode
-Reference Code
+# Para que os jogadores possam  ter uma boa experiência em um jogo online, é importante programar atualizações simultâneas. Nesse projeto, o estudante aprende a usar funções do banco de dados para escrever e ler dados de todos os jogadores para sincronizar o jogo.
